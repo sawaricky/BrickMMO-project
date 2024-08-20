@@ -1,1 +1,1 @@
-# BrickMMO-project
+# BootstrapProject
