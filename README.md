@@ -39,10 +39,6 @@ The LEGO Brick Template is designed to provide a structured, aesthetically pleas
 - **Purpose**: Showcases academic and technical research related to LEGO bricks.
 - **Features**: Research papers, case studies, and links to further reading.
 
-### References
-- **Purpose**: Provides references and citations for the information and resources used throughout the site.
-- **Features**: A bibliography of sources and links for users to explore further.
-
 ## Technologies Used
 
 - **Bootstrap**: Utilized for responsive design, layout, and components.
